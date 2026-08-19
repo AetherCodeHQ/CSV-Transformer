@@ -23,12 +23,12 @@ Every developer needs csv transformer — but existing tools are either too comp
 
 ## Features
 
-- **Filter and sort rows** — Filter and sort rows
-- **Merge multiple CSVs** — Merge multiple CSVs
-- **Column transformations** — Column transformations
-- **Format conversion (CSV, JSON, XML)** — Format conversion (CSV, JSON, XML)
-- **Large file support** — Large file support
-- **CLI interface** — CLI interface
+- Filter and sort rows
+- Merge multiple CSVs
+- Column transformations
+- Format conversion (CSV, JSON, XML)
+- Large file support
+- CLI interface
 
 ## Quick Start
 
